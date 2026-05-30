@@ -1,0 +1,7 @@
+{
+  "name": "morphic.",
+  "description": "A revolutionary sustainability mobile app that turns cosmetic empties into secondary raw materials and real-world rewards. 'Ubah Sisa Menjadi Jiwa.'",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
